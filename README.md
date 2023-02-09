@@ -1,2 +1,0 @@
-# fandango
-django tools
